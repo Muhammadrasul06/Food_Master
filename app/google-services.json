@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71541043628",
+    "project_id": "food-master-1-0",
+    "storage_bucket": "food-master-1-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71541043628:android:063737603c4859932c4a09",
+        "android_client_info": {
+          "package_name": "com.example.foodmaster10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71541043628-47qno8ao13ra2n5rvqm7kpaegf8i8qqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmrOfy3lyVxXnOyfcpJEY1x7KJbibtNWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71541043628-47qno8ao13ra2n5rvqm7kpaegf8i8qqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
